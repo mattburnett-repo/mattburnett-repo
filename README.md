@@ -17,3 +17,5 @@ Since then I have followed interests that pursue the idea of capturing, processi
 My main interest is in making things that are useful, and making things that already exist better.
 
 Personal / portfolio website is [here](https://mattburnett-repo.github.io/portfolio-website/).
+
+Blog is [here](https://mattburnett-repo.github.io/blog/).
