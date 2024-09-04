@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [activist.org](https://github.com/activist-org/activist) (Vue + TypeScript + Django).
-- 🌱 I’m currently learning the webscraping ecosystem.
+- 🌱 I’m currently learning the Scrapy webscraping ecosystem.
 - 👯 I’m looking to collaborate on projects that are socially beneficial and/or climate positive.
 
 My interest in web programming / development started in the early 90's, when I discovered how to author Windows 3.1 help files. The idea of hypertext opened up a world of possibilities.
