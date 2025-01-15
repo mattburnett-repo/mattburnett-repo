@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [Activist.org](https://github.com/activist-org/activist) (Vue + TypeScript + Django).
-- 🌱 I’m currently investigating the Scrapy webscraping ecosystem and the ColdBox framework.
-- 👯 I’m looking to collaborate on projects that are socially beneficial, climate positive, or just make life better for people.
+- 🌱 Right now I'm investigating the Scrapy webscraping ecosystem and the ColdBox framework.
+- 👯 It would be great to collaborate on projects that are socially beneficial, climate positive, or just make life better for people.
 
 My interest in web programming / development started in the early 90's, when I discovered how to author Windows 3.1 help files. The idea of hypertext opened up a world of possibilities.
 
