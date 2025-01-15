@@ -6,15 +6,15 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [activist.org](https://github.com/activist-org/activist) (Vue + TypeScript + Django).
-- 🌱 I’m currently learning the Scrapy webscraping ecosystem.
+- 🔭 I’m currently working on [Activist.org](https://github.com/activist-org/activist) (Vue + TypeScript + Django).
+- 🌱 I’m currently investigating the Scrapy webscraping ecosystem and the ColdBox framework.
 - 👯 I’m looking to collaborate on projects that are socially beneficial, climate positive, or just make life better for people.
 
 My interest in web programming / development started in the early 90's, when I discovered how to author Windows 3.1 help files. The idea of hypertext opened up a world of possibilities.
 
 Since then I have followed interests that pursue the idea of capturing, processing and presenting information. For 15 years I worked as a developer during the Web 1.0 era, in the US government space. I ended up taking a break from that to pursue other interests, and after a relocation to Berlin I upskilled a few years ago to the current web development technologies.
 
-Recently I have contributed to open source projects such as [Resonate.coop](https://github.com/resonatecoop/) and [Activist.org](https://github.com/activist-org). For Resonate.coop I implmented a complete testing process. For Activist.org I currently work on the project's open issues to implement new functionality, from frontend to backend.
+Recently I have contributed to open source projects such as [Resonate.coop](https://github.com/resonatecoop/) and [Activist.org](https://github.com/activist-org). For Resonate.coop I implemented a [complete testing process](https://github.com/resonatecoop/api/blob/main/test/README.md). For Activist.org I currently work on the project's open issues to implement new functionality, from frontend to backend.
 
 My main interest is in making things that are useful, and making things that already exist better.
 
