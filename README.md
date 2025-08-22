@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Developer working on [Activist.org](https://github.com/activist-org/activist), a project built with Vue, TypeScript, and Django.
+- 🏅 Also working on [Servepoint](), 
 - 🌱 Actively expanding my skills by diving into ColdBox and preparing for the Java SE 17 Developer certification.
 - 🏅 Adobe Certified ColdFusion Professional.
 - 👯 Open to collaborating on projects that are socially beneficial, climate-positive, or that simply improve people's lives. Let's build something great together!
